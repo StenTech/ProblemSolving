@@ -1,0 +1,1 @@
+{"name":"Local: trik","url":"/home/sten-tech/Documents/CodeHub/ProblemSolving/Trik/trik.cpp","tests":[{"id":1668361557624,"input":"AB","output":"3"},{"id":1668365397609,"input":"CBABCACCC","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sten-tech/Documents/CodeHub/ProblemSolving/Trik/trik.cpp","group":"local","local":true}
