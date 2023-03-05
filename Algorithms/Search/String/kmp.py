@@ -1,4 +1,4 @@
-from naive import search
+from naive import search # for testing the current algorithm
 
 
 def kmp_array(pat):

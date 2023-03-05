@@ -1,7 +1,8 @@
 def search(string: str, pattern: str) -> list[int]:
     matches = []
-    for i in range(len(string)):
+    for i in range(len(string)-len(pattern)+1):
         for j in range(len(pattern)):
+            
             if pattern[j] != string[i+j]: break
         else: matches.append(i)
     return matches
